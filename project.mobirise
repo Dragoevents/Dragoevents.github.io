@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,20 +35,29 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "4.10.0",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "gdpr": ""
+    "gdpr": "",
+    "customCookies": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='https://www.cookiepolicygenerator.com/live.php?token=ZDGoqz6JbpkIoTmrI7KV5jMw5jlCVaH2'>cookie policy</a>."
+    }
   },
   "pages": {
     "Contest.html": {
       "settings": {
         "meta_descr": "The DJ Contest",
         "title": "Contest",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -557,7 +566,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Tickets",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1041,7 +1050,7 @@
       "settings": {
         "meta_descr": "read more",
         "title": "Read more",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1079,8 +1088,7 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0",
-              "color": "#ffffff"
+              "padding": "2rem 0"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -1092,9 +1100,9 @@
             }
           },
           "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Tekstbreedte\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Lijnbreedte\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"lijnkleur\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><i><b>JudaX</b><br></i>So who the F is JudaX? Well, that's a question that never can be answered. simply because no one can. Not even JudaX himself.<br>What we do know about him, is that his music is more powerfull then anything. 180 bpm to 300bpm, nothing is to much for this... thing. He has tracks such as: <b>JudaX FT. Theo - ThE UptempO ProjecT (TuP OfficiaL 2019 AntheM)</b> and a remix of <b>NSD/Korpz Industries - Hai La Noi (JudaX'S ''2,o'' RemiX)</b>. These kick's will tear your ears off.. Well, guess that's the only thing we know about him!</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
-          "_cid": "rqkVtM7VEu",
-          "_anchor": "content10-o",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Tekstbreedte\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Lijnbreedte\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"lijnkleur\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><b>Drago</b><br>Here is the thing... About JudaX we just dont know... but about Drago, we don't want to know... He produces tracks that hit the 150-155bpm mark. He is at the beginning of his career and has some bootlegs such as: &nbsp;<b>Dean Lewis - Be alright (Drago bootleg) </b>and a bootleg of <b>B-Brave - one night stand (Drago bootleg) </b>and a remix of <b>Xenex - hashtag (Drago remix)</b>&nbsp;also, there is a track in comming! but eehm, sssh, we sayed nothing ;)<br>that was al we needed to say about Drago.</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_cid": "rql3FGc1At",
+          "_anchor": "content10-p",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1114,7 +1122,8 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0"
+              "padding": "2rem 0",
+              "color": "#ffffff"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -1126,9 +1135,9 @@
             }
           },
           "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Tekstbreedte\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Lijnbreedte\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"lijnkleur\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><b>Drago</b><br>Here is the thing... About JudaX we just dont know... but about Drago, we dont want to know... He produces tracks that hit the 150-155bpm mark. He is at the beginning of his career and has some bootlegs such as: &nbsp;<b>Dean Lewis - Be alright (Drago bootleg) </b>and a bootleg of <b>B-Brave - one night stand (Drago bootleg) </b>and a remix of <b>Xenex - hashtag (Drago remix)</b>&nbsp;also, there is a track in comming! but eehm, sssh, we sayed nothing ;)<br>that was al we needed to say about Drago.</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
-          "_cid": "rql3FGc1At",
-          "_anchor": "content10-p",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Tekstbreedte\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Lijnbreedte\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"lijnkleur\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><i><b>JudaX</b><br></i>So who the F is JudaX? Well, that's a question that never can be answered. simply because no one can. Not even JudaX himself.<br>What we do know about him, is that his music is more powerfull then anything. 180 bpm to 300bpm, nothing is to much for this... thing. He has tracks such as: <b>JudaX FT. Theo - ThE UptempO ProjecT (TuP OfficiaL 2019 AntheM)</b> and a remix of <b>NSD/Korpz Industries - Hai La Noi (JudaX'S ''2,o'' RemiX)</b>. These kick's will tear your ears off.. Well, guess that's the only thing we know about him!</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_cid": "rqkVtM7VEu",
+          "_anchor": "content10-o",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1538,43 +1547,6 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".title": {
-              "margin-bottom": "2rem"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#767676"
-            },
-            "a:not([href]):not([tabindex])": {
-              "color": "#fff",
-              "border-radius": "3px"
-            },
-            "a.btn-white:not([href]):not([tabindex])": {
-              "color": "#333"
-            },
-            "textarea.form-control": {
-              "min-height": "188px"
-            }
-          },
-          "_name": "form1",
-          "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Toon titel\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Toon ondertitel\" name=\"showSubtitle\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Achtergrondafbeelding\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Achtergrondkleur\" value=\"#c1c1c1\" selected>\n            <input type=\"video\" title=\"Achtergrondvideo\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#c1c1c1\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Doorschijnendheid\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>\n                    CONTACT FORM</b></h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    Have some quetions or want to give us feedback? let us know below!</h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"media-container-column col-lg-8\">\n                <!---Formbuilder Form--->\n                <form action=\"drago.events@outlook.com\" name=\"Mobirise Form\" method=\"POST\" class=\"mbr-form form-with-styler\">\n                    <div class=\"row row-sm-offset\">\n                        <div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Thank you! We have received your message!</div>\n                        <div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\">\n                        </div>\n                    </div>\n                    <div class=\"dragArea row row-sm-offset\">\n                        <div class=\"col-md-4  form-group\" data-for=\"name\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"name\" class=\"form-control-label mbr-fonts-style\">Name*</label>\n                            <input type=\"text\" name=\"name\" data-form-field=\"Name\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\">\n                        </div>\n                        <div class=\"col-md-4  form-group\" data-for=\"email\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"email\" class=\"form-control-label mbr-fonts-style\">Email*</label>\n                            <input type=\"email\" name=\"email\" data-form-field=\"Email\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\">\n                        </div>\n                        <div data-for=\"phone\" class=\"col-md-4  form-group\" hidden=\"hidden\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"phone\" class=\"form-control-label mbr-fonts-style\" hidden=\"hidden\">Telefoon</label>\n                            <input type=\"tel\" name=\"phone\" data-form-field=\"Phone\" mbr-theme-style=\"display-7\" class=\"form-control\" hidden=\"hidden\">\n                        </div>\n                        <div data-for=\"message\" class=\"col-md-12 form-group\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"message\" class=\"form-control-label mbr-fonts-style\">Massage*</label>\n                            <textarea name=\"message\" data-form-field=\"Message\" mbr-theme-style=\"display-7\" class=\"form-control\"></textarea>\n                        </div>\n                        <div class=\"col-md-12 input-group-btn align-center\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrBtnLink,-mbrBtnAdd\">\n                            <a type=\"submit\" class=\"btn btn-primary btn-form\">VERSTUUR</a>\n                        </div>\n                    </div>\n                </form><!---Formbuilder Form--->\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rqkSS27T6i",
-          "_anchor": "form1-m",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
         }
       ]
     },
@@ -1582,7 +1554,7 @@
       "settings": {
         "meta_descr": "info",
         "title": "info",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2001,9 +1973,48 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#c1c1c1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b style=\"font-size: 1.09rem;\">Here is some more info about the event!</b><br></p><p><b>\n</b></p><p>We are completely new to this, but we sure know that we are ready for this! We have some really good and original DJ's for you in the line-up! line-up comming your way 21-06-2019!&nbsp;</p><p>The B-DaY BasH starts at 8 p.m (20:00) until 3 a.m (03:00). We are planning to do a <b><a href=\"page4.html\"><b>contest</b></a> </b>for the first 30 minutes of our party! If you win this, you are not only good in what you are doing, but you got the privilege to kick off our first ever B-DaY-BasH event!&nbsp;</p><p>Without further ado.. We would like to see you all at our B-DaY BasH! We gonna show you what we are capable off!\n</p><p><b>\n</b></p><p><b>SeE You All TheRe!\n</b></p><p><b>JudaX - Drago</b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#c1c1c1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b style=\"font-size: 1.09rem;\">Here is some more info about the event!</b><br></p><p><b>\n</b></p><p>We are completely new to this, but we sure know that we are ready for this! We have some really good and original DJ's for you in the line-up! line-up comming your way 21-06-2019!&nbsp;</p><p>The B-DaY BasH starts at 8 p.m (20:00) until 3 a.m (03:00). We are planning to do a <b><a href=\"page4.html\"><b>contest</b></a> </b>for the first 30 minutes of our party! If you win this, you are not only good in what you are doing, but you got the privilege to kick off our first ever B-DaY-BasH event!&nbsp;</p><p>Without further ado.. We would like to see you all at our B-DaY BasH! We gonna show you what we are capable off!\n</p><p><b>\n</b></p><p><b>SeE You All TheRe!\n</b></p><p><b>Drago - JudaX</b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rq3JZeTQmz",
           "_anchor": "content2-k",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".title": {
+              "margin-bottom": "2rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "a:not([href]):not([tabindex])": {
+              "color": "#fff",
+              "border-radius": "3px"
+            },
+            "a.btn-white:not([href]):not([tabindex])": {
+              "color": "#333"
+            },
+            "textarea.form-control": {
+              "min-height": "188px"
+            }
+          },
+          "_name": "form1",
+          "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\">\n        <input type=\"range\" inline=\"\" title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Toon titel\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Toon ondertitel\" name=\"showSubtitle\" checked=\"\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Achtergrondafbeelding\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\" parallax=\"\">\n            <input type=\"color\" title=\"Achtergrondkleur\" value=\"#c1c1c1\" selected=\"\">\n            <input type=\"video\" title=\"Achtergrondvideo\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#c1c1c1\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Doorschijnendheid\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>\n                    CONTACT FORM</b></h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    Have some quetions or want to give us feedback? let us know below!</h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form=\"\" class=\"media-container-column col-lg-8\">\n                <!---Formbuilder Form--->\n                <form action=\"drago.events@outlook.com\" name=\"Mobirise Form\" method=\"POST\" class=\"mbr-form form-with-styler\">\n                    <div class=\"row row-sm-offset\">\n                        <div hidden=\"hidden\" data-form-alert=\"\" class=\"alert alert-success col-12\">Thank you! We have received your message!</div>\n                        <div hidden=\"hidden\" data-form-alert-danger=\"\" class=\"alert alert-danger col-12\">\n                        </div>\n                    </div>\n                    <div class=\"dragArea row row-sm-offset\">\n                        <div class=\"col-md-4  form-group\" data-for=\"name\">\n                            <label mbr-text=\"\" mbr-theme-style=\"display-7\" for=\"name\" class=\"form-control-label mbr-fonts-style\">Name*</label>\n                            <input type=\"text\" name=\"name\" data-form-field=\"Name\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\">\n                        </div>\n                        <div class=\"col-md-4  form-group\" data-for=\"email\">\n                            <label mbr-text=\"\" mbr-theme-style=\"display-7\" for=\"email\" class=\"form-control-label mbr-fonts-style\">Email*</label>\n                            <input type=\"email\" name=\"email\" data-form-field=\"Email\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\">\n                        </div>\n                        <div data-for=\"phone\" class=\"col-md-4  form-group\" hidden=\"hidden\">\n                            <label mbr-text=\"\" mbr-theme-style=\"display-7\" for=\"phone\" class=\"form-control-label mbr-fonts-style\" hidden=\"hidden\">Telefoon</label>\n                            <input type=\"tel\" name=\"phone\" data-form-field=\"Phone\" mbr-theme-style=\"display-7\" class=\"form-control\" hidden=\"hidden\">\n                        </div>\n                        <div data-for=\"message\" class=\"col-md-12 form-group\">\n                            <label mbr-text=\"\" mbr-theme-style=\"display-7\" for=\"message\" class=\"form-control-label mbr-fonts-style\">Massage*</label>\n                            <textarea name=\"message\" data-form-field=\"Message\" mbr-theme-style=\"display-7\" class=\"form-control\"></textarea>\n                        </div>\n                        <div class=\"col-md-12 input-group-btn align-center\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrBtnLink,-mbrBtnAdd\">\n                            <a type=\"submit\" class=\"btn btn-primary btn-form\">VERSTUUR</a>\n                        </div>\n                    </div>\n                </form><!---Formbuilder Form--->\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "form1-v",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rtPJ8rM7Jc",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -2799,6 +2810,439 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Algemenevoorwaarden",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".navbar": {
+              "padding": ".5rem 0",
+              "background": "@menuBgColor",
+              "transition": "none",
+              "min-height": "77px"
+            },
+            ".navbar-dropdown.bg-color.transparent.opened": {
+              "background": "@menuBgColor"
+            },
+            "a": {
+              "font-style": "normal"
+            },
+            ".nav-item": {
+              "& span": {
+                "padding-right": "0.4em",
+                "line-height": "0.5em",
+                "vertical-align": "text-bottom",
+                "position": "relative",
+                "text-decoration": "none"
+              },
+              "& a": {
+                "display": "flex",
+                "align-items": "center",
+                "justify-content": "center",
+                "padding": "0.7rem 0 !important",
+                "margin": "0rem .65rem !important"
+              }
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".btn": {
+              "padding": "0.4rem 1.5rem",
+              ".mbr-iconfont": {
+                "font-size": "1.6rem"
+              },
+              "display": "inline-flex",
+              "align-items": "center"
+            },
+            ".menu-logo": {
+              "margin-right": "auto",
+              ".navbar-brand": {
+                "display": "flex",
+                "margin-left": "5rem",
+                "padding": "0",
+                "transition": "padding .2s",
+                "min-height": "3.8rem",
+                "align-items": "center",
+                ".navbar-caption-wrap": {
+                  "display": "-webkit-flex",
+                  "-webkit-align-items": "center",
+                  "align-items": "center",
+                  "word-break": "break-word",
+                  "min-width": "7rem",
+                  "margin": ".3rem 0",
+                  ".navbar-caption": {
+                    "line-height": "1.2rem !important",
+                    "padding-right": "2rem"
+                  }
+                },
+                ".navbar-logo": {
+                  "font-size": "4rem",
+                  "transition": "font-size 0.25s",
+                  "& img": {
+                    "display": "flex"
+                  },
+                  ".mbr-iconfont": {
+                    "transition": "font-size 0.25s"
+                  }
+                }
+              }
+            },
+            ".navbar-toggleable-sm .navbar-collapse": {
+              "justify-content": "flex-end",
+              "-webkit-justify-content": "flex-end",
+              "padding-right": "5rem",
+              "width": "auto",
+              ".navbar-nav": {
+                "flex-wrap": "wrap",
+                "-webkit-flex-wrap": "wrap",
+                "padding-left": "0",
+                ".nav-item": {
+                  "-webkit-align-self": "center",
+                  "align-self": "center"
+                }
+              },
+              ".navbar-buttons": {
+                "padding-left": "0",
+                "padding-bottom": "0"
+              }
+            },
+            ".dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                "display": "none",
+                "position": "absolute",
+                "min-width": "5rem",
+                "padding-top": "1.4rem",
+                "padding-bottom": "1.4rem",
+                "text-align": "left",
+                ".dropdown-item": {
+                  "width": "auto",
+                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
+                  "&::after": {
+                    "right": "0.5rem"
+                  }
+                },
+                ".dropdown-submenu": {
+                  "margin": "0"
+                }
+              },
+              "&.open > .dropdown-menu": {
+                "display": "block"
+              }
+            },
+            ".navbar-toggleable-sm": {
+              "&.opened:after": {
+                "position": "absolute",
+                "width": "100vw",
+                "height": "100vh",
+                "content": "''",
+                "background-color": "rgba(0, 0, 0, 0.1)",
+                "left": "0",
+                "bottom": "0",
+                "transform": "translateY(100%)",
+                "-webkit-transform": "translateY(100%)",
+                "z-index": "1000"
+              }
+            },
+            ".navbar.navbar-short": {
+              "min-height": "60px",
+              "transition": "all .2s",
+              "& .navbar-toggler-right": {
+                "top": "20px"
+              },
+              "& .navbar-logo a": {
+                "font-size": "2.5rem !important",
+                "line-height": "2.5rem",
+                "transition": "font-size 0.25s",
+                "& .mbr-iconfont": {
+                  "font-size": "2.5rem !important"
+                },
+                "& img": {
+                  "height": "3rem !important"
+                }
+              },
+              "& .navbar-brand": {
+                "min-height": "3rem"
+              }
+            },
+            "button.navbar-toggler": {
+              "width": "31px",
+              "height": "18px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "top": "1.5rem",
+              "right": "1rem",
+              "&:focus": {
+                "outline": "none"
+              },
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".collapsed": {
+              "&.navbar-expand": {
+                "flex-direction": "column"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".navbar-expand": {
+                "flex-direction": "column"
+              },
+              "img": {
+                "height": "3.8rem !important"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (min-width: 767px)": {
+              ".menu-logo": {
+                "flex-shrink": "0"
+              }
+            },
+            ".navbar-collapse": {
+              "flex-basis": "auto"
+            },
+            ".nav-link:hover, .dropdown-item:hover": {
+              "color": "@itemsHoverColor !important"
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#333333\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                         <img src=\"@PROJECT_PATH@/assets/images/dragologo-122x87.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Text\">DragoEvents</a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn\">&nbsp;Home</span>\n                        </a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"contest.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-music mbr-iconfont mbr-iconfont-btn\">&nbsp;Contest</span>\n                        </a></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"read more.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-bookmark mbr-iconfont mbr-iconfont-btn\">&nbsp;Read more</span>\n                        </a></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"info.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-info mbr-iconfont mbr-iconfont-btn\">&nbsp;Info</span>\n                        </a></li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        </a>\n                </li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"tickets.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\">&nbsp;Tickets</span>\n                    </a></div>\n        </div>\n    </nav>\n</section>",
+          "_cid": "qTkzRZLJNu",
+          "_anchor": "menu1-t",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Algemene voorwaarden\n</b></p><p><b>a.\tDe Organisatie\n</b></p><p><b>Firma DragoEvents of elke andere direct of indirect aan deze vennootschappen gelieerde vennootschap of onderneming.\n</b></p><p><b>b.\tBezoeker\n</b></p><p><b>Iedere persoon of rechtspersoon die op enigerlei wijze, direct of indirect een overeenkomst met de Organisatie sluit terzake van het bijwonen van een door de Organisatie te organiseren evenement, althans iedere natuurlijke persoon die zich op het Terrein bevindt.\n</b></p><p><b>c.\tEntreebewijs:\n</b></p><p><b>Het door de Organisatie of door haar ingeschakelde derde in het verkeer gebrachte toegangsbewijs dat recht geeft op toegang tot een door de Organisatie georganiseerd Evenement.\n</b></p><p><b>d.\tEvenement:\n</b></p><p><b>Een (Mede) door de Organisatie georganiseerd feest, voorstelling, muziek(uitvoering) en/of andere manifestatie in de ruimste zin des woords.\n</b></p><p><b>e.\tTerrein:\n</b></p><p><b>Elke feitelijke plaats waar een Evenement wordt gehouden alsmede alle gebieden, ruimten en velden daaromheen, die deel uitmaken van het complex waarbinnen het Evenement gehouden wordt alsmede de daaraan grenzende openbare weg waartoe de Organisatie op enigerlei wijze zakelijk gerechtigd is.\n</b></p><p><b>\n</b></p><p><b>2.1\n</b></p><p><b>Deze algemene voorwaarden zijn van toepassing op alle (al dan niet middels een tussenpersoon tot stand gekomen) overeenkomsten waarbij de Organisatie direct of indirect partij is, alsmede op alle daarop gebaseerde door de Organisatie te leveren diensten. Door reservering, aankoop of op enige andere wijze verkrijging van een Entreebewijs danwel betreding van het Terrein verklaart de Bezoeker zich onvoorwaardelijk akkoord met de inhoud van deze algemene voorwaarden.\n</b></p><p><b>\n</b></p><p><b>2.2\n</b></p><p><b>Alle door de Organisatie danwel door haar ingeschakelde derden gedane aanbiedingen, (programma) aankondigingen, mededelingen of anderszins verschafte informatie en prijsopgaven zijn vrijblijvend. De Organisatie aanvaardt geen aansprakelijkheid voor eventuele fouten in door de Organisatie en door derden aan de Bezoeker gedane aankondigingen, aanbiedingen, mededelingen of anderszins verschafte informatie en prijsopgaven, danwel fouten gemaakt bij de (voor)verkoop van Entreebewijzen door derden, waaronder begrepen de voorverkoopadressen.\n</b></p><p><b>\n</b></p><p><b>2.3\n</b></p><p><b>Afwijkingen van deze voorwaarden zijn slechts bindend indien en voor zover de Organisatie zich daartoe uitdrukkelijk schriftelijk akkoord heeft verklaard.\n</b></p><p><b>\n</b></p><p><b>2.4\n</b></p><p><b>Uitdrukkelijk worden door de Organisatie de door Bezoekers toepasselijk verklaarde algemene voorwaarden verworpen.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>3.1\n</b></p><p><b>De Entreebewijzen zijn en blijven eigendom van de Organisatie. Uitsluitend Entreebewijzen die zijn aangeschaft bij de Organisatie of door de Organisatie ingeschakelde of erkende voorverkoopbureaus worden door de Organisatie als geldig erkend.\n</b></p><p><b>\n</b></p><p><b>3.2\n</b></p><p><b>Eenmaal gekochte Entreebewijzen worden niet door de Organisatie teruggenomen en kunnen niet worden geruild. Evenmin vindt restitutie van het aankoopbedrag of reserveringskosten plaats, tenzij in deze algemene voorwaarden anders wordt bepaald.\n</b></p><p><b>\n</b></p><p><b>3.3\n</b></p><p><b>Het is de Bezoeker niet toegestaan Entreebewijzen voor een Evenement op enigerlei wijze aan derden door te verkopen en/of deze voor commerciële doeleinden op enigerlei wijze aan derden te verstrekken.\n</b></p><p><b>\n</b></p><p><b>3.4\n</b></p><p><b>De Bezoeker is gehouden het Entreebewijs dat toegang heeft verleend tot het Evenement gedurende het gehele Evenement bij zich te dragen en op eerste verzoek aan de Organisatie, of door haar ingeschakelde derden, te tonen.\n</b></p><p><b>\n</b></p><p><b>3.5\n</b></p><p><b>Bezoekers die het bepaalde in dit artikel van deze algemene voorwaarden overtreden kan de toegang tot het Evenement worden geweigerd, danwel deze Bezoekers kunnen door de Organisatie van het Terrein van het Evenement worden verwijderd, zonder dat de Organisatie gehouden is tot restitutie van het aankoopbedrag van het Entreebewijs. Voor alle door de Organisatie ten gevolge van het overtreden van het in dit artikel gestelde geleden schade zal de Bezoeker aansprakelijk zijn.\n</b></p><p><b>4.1\n</b></p><p><b>Indien voor enig Evenement een minimumleeftijd geldt verklaart de Bezoeker middels de aankoop van het Entreebewijs dat hij/zij de voor dat Evenement gestelde minimumleeftijd heeft.\n</b></p><p><b>\n</b></p><p><b>4.2\n</b></p><p><b>De Organisatie is gerechtigd Bezoekers voorafgaand of tijdens de duur van het Evenement te fouilleren en de door de Bezoeker meegevoerde (hand)bagage te onderzoeken.\n</b></p><p><b>\n</b></p><p><b>4.3\n</b></p><p><b>Indien de Organisatie daarom verzoekt is de Bezoeker gehouden zich te legitimeren middels het tonen van een geldig legitimatiebewijs.\n</b></p><p><b>\n</b></p><p><b>4.4\n</b></p><p><b>Gedurende zijn/haar verblijf op het Terrein dient de Bezoeker zich te gedragen in overeenstemming met de geldende normen wat betreft de openbare orde, goede zeden en fatsoen. Voorts is de Bezoeker gehouden zich te gedragen conform de door de Organisatie gehanteerde huisregels betrekking hebbend op het betreffende Evenement. De Bezoeker is in dit verband tevens verplicht de door de als zodanig kenbare functionarissen van de Organisatie (waaronder begrepen maar niet beperkt tot het ordepersoneel) gegeven aanwijzingen en instructies op te volgen.\n</b></p><p><b>\n</b></p><p><b>4.5\n</b></p><p><b>De Organisatie is gerechtigd, zonder opgave van redenen, Bezoekers de toegang tot het Terrein te weigeren of van het Terrein te (doen) verwijderen indien een Bezoeker zich niet gedraagt conform het bepaalde in het vorige lid van dit artikel danwel indien de Organisatie dit anderszins noodzakelijk acht ter handhaving van de rust en orde tijdens het Evenement. De Bezoeker heeft in dat geval geen recht op vergoeding van het aankoopbedrag van het Entreebewijs.\n</b></p><p><b>\n</b></p><p><b>4.6\n</b></p><p><b>Het is Bezoekers niet toegestaan (huis) dieren, (hard)drugs, (alcoholhoudende) dranken en etenswaren in welke verpakking dan ook, glaswerk, blik, plastic flessen, vuurwerk, (vuur)wapens of andere gevaarlijke voorwerpen mee te nemen naar danwel bij zich te dragen op het Terrein, op straffe van inbeslagname zonder teruggave.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>4.7\n</b></p><p><b>Het is de Bezoeker niet toegestaan, tenzij hij/zij hiervoor voorafgaande schriftelijke toestemming van de Organisatie heeft verkregen, op het Terrein goederen van welke aard dan ook, te koop of te ruil aan te bieden, danwel deze kosteloos aan derden te verschaffen.\n</b></p><p><b>\n</b></p><p><b>4.8\n</b></p><p><b>Bezoekers die het bepaalde in dit artikel van deze algemene voorwaarden overtreden danwel aan enige bepaling medewerking weigeren, kan de toegang tot het Evenement worden geweigerd, danwel deze Bezoekers kunnen door de Organisatie van het Terrein van het Evenement worden verwijderd, zonder dat de Organisatie gehouden is tot restitutie van het aankoopbedrag van het Entreebewijs. Voor alle door de Organisatie ten gevolge van het overtreden van het in dit artikel gestelde geleden schade zal de Bezoeker aansprakelijk zijn.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>5.1\n</b></p><p><b>Het betreden van het Terrein en het bijwonen van het Evenement geschiedt door de Bezoekers op eigen risico. De Organisatie is slechts aansprakelijk voor door de Bezoeker geleden schade of de Bezoeker toegebracht letsel, die rechtstreeks en uitsluitend het gevolg is van opzet of grove schuld van de Organisatie, met dien verstande dat alleen die schade voor vergoeding in aanmerking komt waarvoor de Organisatie is verzekerd en voor zover deze schade door die betreffende verzekering wordt gedekt. De aansprakelijkheid van de Organisatie wordt in ieder geval (maar niet beperkt tot) uitgesloten voor:\n</b></p><p><b>a. schade ten gevolge van handelen van derden, waaronder begrepen door de Organisatie ingeschakelde derden zoals leveranciers, huurders/pachters van delen van het Terrein en de door deze derden ingeschakelde personen.\n</b></p><p><b>b. schade ten gevolge van het niet opvolgen door de Bezoeker van door de Organisatie ingeschakelde functionarissen gegeven instructies en van het niet naleven van algemene normen van openbare orde, veiligheid en fatsoen.\n</b></p><p><b>c. schade ontstaan door het bijwonen van het Evenement aan bijvoorbeeld gehoor en/of gezichtsvermogen.\n</b></p><p><b>d. schade ten gevolge van verlies, beschadiging of diefstal van aan de Bezoeker toebehorende en naar het Terrein meegebrachte goederen.\n</b></p><p><b>e. (gevolg)schade ten gevolge van niet voorzienbare wijzigingen in de aanvangsen slottijden van het Evenement.\n</b></p><p><b>f. schade op enigerlei wijze veroorzaakt door andere bezoekers van het Evenement.\n</b></p><p><b>g. schade direct of indirect aan wie of wat dan ook ontstaan als direct of indirect gevolg van enig gebrek of enige hoedanigheid of omstandigheid aan, in of op enig roerend of onroerend goed waarvan de Organisatie houder, (erf)pachter, huurder danwel eigenaar is of dat anderszins ter beschikking van de Organisatie staat.\n</b></p><p><b>h. gevolgschade en indirecte (bedrijfs)schade aan de zijde van Bezoeker.\n</b></p><p><b>\n</b></p><p><b>5.2\n</b></p><p><b>De Organisatie is nimmer aansprakelijk voor door de Bezoeker geleden schade die is ontstaan ten gevolge van overmacht aan de zijde van de Organisatie. Onder overmacht wordt mede verstaan elke van de wil van de Organisatie onafhankelijke omstandigheid ook al was deze ten tijde van het totstandkomen van de overeenkomst tussen de Organisatie en de Bezoeker reeds als mogelijkheid te voorzien die de nakoming van de overeenkomst tijdelijk of blijvend verhindert alsmede voor zover daaronder niet reeds begrepen, oorlog, oorlogsgeweld, burgeroorlog, oproer, rellen, terreur en terreurdreiging, optreden van politie en/of brandweer, werkstaking, transportmoeilijkheden, brand, en\n</b></p><p><b>andere ernstige storingen in de Organisatie en/of op het Terrein, weersomstandigheden en om welke reden dan ook niet functionerend openbaar vervoer alsmede de omstandigheid dat een Evenement vanwege het feit dat de voor het Evenement benodigde vergunningen niet zijn verleend c.q. deze zijn ingetrokken geen doorgang kan vinden danwel krachtens een daartoe gegeven bevel van het bevoegde gezag afgelast dient te worden.\n</b></p><p><b>\n</b></p><p><b>5.3\n</b></p><p><b>De in dit artikel opgenomen uitsluitingen en beperkingen van aansprakelijkheid gelden mede ten behoeve van werknemers van de Organisatie en/of door de Organisatie ingeschakelde derden.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>6.1\n</b></p><p><b>De Organisatie is gerechtigd om (delen van) het Evenement en de Bezoekers op beelddragers te doen vastleggen en dit beeldmateriaal te (doen) verveelvoudigen en (doen) openbaarmaken middels alle haar ten dienste staande middelen alsmede derden toestemming te verlenen tot dergelijke openbaarmaking en/of verveelvoudiging. Hieronder wordt tevens begrepen de (camera)registratie in het kader van de handhaving van de openbare orde en veiligheid op het Terrein.\n</b></p><p><b>\n</b></p><p><b>6.2\n</b></p><p><b>Door betreding van het Terrein verklaart de Bezoeker zich eeuwigdurend, onherroepelijk en onvoorwaardelijk akkoord met openbaarmaking en verveelvoudiging van diens portret en lichaam(skenmerken) door de Organisatie of een door de Organisatie aangewezen derde, waarbij de Bezoeker uitdrukkelijk afstand doet van zijn recht zich tegen een dergelijke openbaarmaking te verzetten, ongeacht het medium of de context waarin of het commentaar waarmee dit plaatsvindt. De Organisatie noch de eventuele derde aan wie de Organisatie toestemming heeft gegeven voor een dergelijke openbaarmaking en/of verveelvoudiging is ter zake aan de Bezoeker enige vergoeding verschuldigd.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>De Bezoeker is niet gerechtigd (delen van) het programmaboekje, posters, flyers, en of andere door de Organisatie geproduceerd (promotie)materiaal te verveelvoudigen danwel op enige andere wijze inbreuk te maken op aan de Organisatie toebehorende rechten van intellectueel eigendom, waaronder maar niet beperkt tot merkenrechten, auteursrechten en handelsnaamrechten.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>8.1\n</b></p><p><b>De Organisatie zal zich er voor inspannen het Evenement te doen plaatsvinden op de aangegeven locatie, op de aangegeven datum en het aangegeven tijdstip.\n</b></p><p><b>\n</b></p><p><b>8.2\n</b></p><p><b>Indien de Organisatie dit om enigerlei reden wenselijk acht danwel ingeval van overmacht is de Organisatie gerechtigd het Evenement te verschuiven naar een andere datum, andere locatie danwel het Evenement in zijn geheel te annuleren, zonder aansprakelijk te zijn voor enige door Bezoeker ten gevolge daarvan geleden of te lijden schade.\n</b></p><p><b>\n</b></p><p><b>8.3\n</b></p><p><b>Onder overmacht in de zin van dit artikel wordt mede (maar niet beperkt tot) verstaan, elke van de wil van de Organisatie onafhankelijke omstandigheid ook al was deze ten tijde van het totstandkomen van de overeenkomst tussen de Organisatie en de Bezoeker reeds als mogelijkheid te voorzien die de nakoming van de overeenkomst tijdelijk of blijvend verhindert alsmede voor zover daaronder niet reeds begrepen, oorlog, oorlogsgeweld, burgeroorlog, oproer, rellen, terreur en terreurdreiging, optreden van politie en/of brandweer, werkstaking, transportmoeilijkheden, brand, en andere ernstige storingen in de Organisatie en/of op het Terrein, weersomstandigheden en om welke reden dan ook niet functionerend openbaar vervoer alsmede de omstandigheid dat een Evenement vanwege het feit dat de voor het Evenement benodigde vergunningen niet zijn verleend c.q. deze zijn ingetrokken geen doorgang kan vinden danwel krachtens een daartoe gegeven bevel van het bevoegde gezag afgelast dient te worden.\n</b></p><p><b>\n</b></p><p><b>8.4\n</b></p><p><b>Uitsluitend in geval van annulering als bedoeld in dit artikel zal de Organisatie de reeds door de Bezoeker voor het Entreebewijs betaalde vergoeding aan de Bezoeker restitueren. Van het bepaalde in dit artikellid zijn uitgesloten eventueel door de Bezoeker betaalde bespreek/reserveringsgelden.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>8.5\n</b></p><p><b>Restitutie van entreegelden als bedoeld in lid 4 van dit artikel zal uitsluitend plaats vinden op verzoek van de Bezoeker, onder overlegging aan de Organisatie of een daartoe door haar aangewezen derde, van een geldig entreebewijs binnen 14 (veertien) dagen na de (eerste) dag waarop de annulering door of namens de Organisatie is bekendgemaakt.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>9.1\n</b></p><p><b>Indien enige bepaling van deze algemene voorwaarden geheel of gedeeltelijk nietig zijn of anderszins ongeldig blijken te zijn, dan laat dat de geldigheid van de overige bepalingen onverlet.\n</b></p><p><b>Een nietige of anderszins ongeldige bepaling wordt geconverteerd in een wel geldige bepaling van zo veel mogelijk overeenkomstige strekking. De Organisatie is gerechtigd deze algemene voorwaarden te wijzigen.\n</b></p><p><b>\n</b></p><p><b>9.2\n</b></p><p><b>Alle geschillen van welke aard dan ook zullen worden voorgelegd aan de bevoegde rechter te Den Haag.\n</b></p><p><b>\n</b></p><p><b>9.3\n</b></p><p><b>Geschillen zullen uitsluitend naar Nederlands recht worden beslecht.\n</b></p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rtJx6Pv5Tm",
+          "_anchor": "content1-u",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "Cookies",
         "order": 1
       },
       "components": [
@@ -3213,18 +3657,33 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
             }
           },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Algemene voorwaarden\n</b></p><p><b>a.\tDe Organisatie\n</b></p><p><b>Firma DragoEvents of elke andere direct of indirect aan deze vennootschappen gelieerde vennootschap of onderneming.\n</b></p><p><b>b.\tBezoeker\n</b></p><p><b>Iedere persoon of rechtspersoon die op enigerlei wijze, direct of indirect een overeenkomst met de Organisatie sluit terzake van het bijwonen van een door de Organisatie te organiseren evenement, althans iedere natuurlijke persoon die zich op het Terrein bevindt.\n</b></p><p><b>c.\tEntreebewijs:\n</b></p><p><b>Het door de Organisatie of door haar ingeschakelde derde in het verkeer gebrachte toegangsbewijs dat recht geeft op toegang tot een door de Organisatie georganiseerd Evenement.\n</b></p><p><b>d.\tEvenement:\n</b></p><p><b>Een (Mede) door de Organisatie georganiseerd feest, voorstelling, muziek(uitvoering) en/of andere manifestatie in de ruimste zin des woords.\n</b></p><p><b>e.\tTerrein:\n</b></p><p><b>Elke feitelijke plaats waar een Evenement wordt gehouden alsmede alle gebieden, ruimten en velden daaromheen, die deel uitmaken van het complex waarbinnen het Evenement gehouden wordt alsmede de daaraan grenzende openbare weg waartoe de Organisatie op enigerlei wijze zakelijk gerechtigd is.\n</b></p><p><b>\n</b></p><p><b>2.1\n</b></p><p><b>Deze algemene voorwaarden zijn van toepassing op alle (al dan niet middels een tussenpersoon tot stand gekomen) overeenkomsten waarbij de Organisatie direct of indirect partij is, alsmede op alle daarop gebaseerde door de Organisatie te leveren diensten. Door reservering, aankoop of op enige andere wijze verkrijging van een Entreebewijs danwel betreding van het Terrein verklaart de Bezoeker zich onvoorwaardelijk akkoord met de inhoud van deze algemene voorwaarden.\n</b></p><p><b>\n</b></p><p><b>2.2\n</b></p><p><b>Alle door de Organisatie danwel door haar ingeschakelde derden gedane aanbiedingen, (programma) aankondigingen, mededelingen of anderszins verschafte informatie en prijsopgaven zijn vrijblijvend. De Organisatie aanvaardt geen aansprakelijkheid voor eventuele fouten in door de Organisatie en door derden aan de Bezoeker gedane aankondigingen, aanbiedingen, mededelingen of anderszins verschafte informatie en prijsopgaven, danwel fouten gemaakt bij de (voor)verkoop van Entreebewijzen door derden, waaronder begrepen de voorverkoopadressen.\n</b></p><p><b>\n</b></p><p><b>2.3\n</b></p><p><b>Afwijkingen van deze voorwaarden zijn slechts bindend indien en voor zover de Organisatie zich daartoe uitdrukkelijk schriftelijk akkoord heeft verklaard.\n</b></p><p><b>\n</b></p><p><b>2.4\n</b></p><p><b>Uitdrukkelijk worden door de Organisatie de door Bezoekers toepasselijk verklaarde algemene voorwaarden verworpen.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>3.1\n</b></p><p><b>De Entreebewijzen zijn en blijven eigendom van de Organisatie. Uitsluitend Entreebewijzen die zijn aangeschaft bij de Organisatie of door de Organisatie ingeschakelde of erkende voorverkoopbureaus worden door de Organisatie als geldig erkend.\n</b></p><p><b>\n</b></p><p><b>3.2\n</b></p><p><b>Eenmaal gekochte Entreebewijzen worden niet door de Organisatie teruggenomen en kunnen niet worden geruild. Evenmin vindt restitutie van het aankoopbedrag of reserveringskosten plaats, tenzij in deze algemene voorwaarden anders wordt bepaald.\n</b></p><p><b>\n</b></p><p><b>3.3\n</b></p><p><b>Het is de Bezoeker niet toegestaan Entreebewijzen voor een Evenement op enigerlei wijze aan derden door te verkopen en/of deze voor commerciële doeleinden op enigerlei wijze aan derden te verstrekken.\n</b></p><p><b>\n</b></p><p><b>3.4\n</b></p><p><b>De Bezoeker is gehouden het Entreebewijs dat toegang heeft verleend tot het Evenement gedurende het gehele Evenement bij zich te dragen en op eerste verzoek aan de Organisatie, of door haar ingeschakelde derden, te tonen.\n</b></p><p><b>\n</b></p><p><b>3.5\n</b></p><p><b>Bezoekers die het bepaalde in dit artikel van deze algemene voorwaarden overtreden kan de toegang tot het Evenement worden geweigerd, danwel deze Bezoekers kunnen door de Organisatie van het Terrein van het Evenement worden verwijderd, zonder dat de Organisatie gehouden is tot restitutie van het aankoopbedrag van het Entreebewijs. Voor alle door de Organisatie ten gevolge van het overtreden van het in dit artikel gestelde geleden schade zal de Bezoeker aansprakelijk zijn.\n</b></p><p><b>4.1\n</b></p><p><b>Indien voor enig Evenement een minimumleeftijd geldt verklaart de Bezoeker middels de aankoop van het Entreebewijs dat hij/zij de voor dat Evenement gestelde minimumleeftijd heeft.\n</b></p><p><b>\n</b></p><p><b>4.2\n</b></p><p><b>De Organisatie is gerechtigd Bezoekers voorafgaand of tijdens de duur van het Evenement te fouilleren en de door de Bezoeker meegevoerde (hand)bagage te onderzoeken.\n</b></p><p><b>\n</b></p><p><b>4.3\n</b></p><p><b>Indien de Organisatie daarom verzoekt is de Bezoeker gehouden zich te legitimeren middels het tonen van een geldig legitimatiebewijs.\n</b></p><p><b>\n</b></p><p><b>4.4\n</b></p><p><b>Gedurende zijn/haar verblijf op het Terrein dient de Bezoeker zich te gedragen in overeenstemming met de geldende normen wat betreft de openbare orde, goede zeden en fatsoen. Voorts is de Bezoeker gehouden zich te gedragen conform de door de Organisatie gehanteerde huisregels betrekking hebbend op het betreffende Evenement. De Bezoeker is in dit verband tevens verplicht de door de als zodanig kenbare functionarissen van de Organisatie (waaronder begrepen maar niet beperkt tot het ordepersoneel) gegeven aanwijzingen en instructies op te volgen.\n</b></p><p><b>\n</b></p><p><b>4.5\n</b></p><p><b>De Organisatie is gerechtigd, zonder opgave van redenen, Bezoekers de toegang tot het Terrein te weigeren of van het Terrein te (doen) verwijderen indien een Bezoeker zich niet gedraagt conform het bepaalde in het vorige lid van dit artikel danwel indien de Organisatie dit anderszins noodzakelijk acht ter handhaving van de rust en orde tijdens het Evenement. De Bezoeker heeft in dat geval geen recht op vergoeding van het aankoopbedrag van het Entreebewijs.\n</b></p><p><b>\n</b></p><p><b>4.6\n</b></p><p><b>Het is Bezoekers niet toegestaan (huis) dieren, (hard)drugs, (alcoholhoudende) dranken en etenswaren in welke verpakking dan ook, glaswerk, blik, plastic flessen, vuurwerk, (vuur)wapens of andere gevaarlijke voorwerpen mee te nemen naar danwel bij zich te dragen op het Terrein, op straffe van inbeslagname zonder teruggave.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>4.7\n</b></p><p><b>Het is de Bezoeker niet toegestaan, tenzij hij/zij hiervoor voorafgaande schriftelijke toestemming van de Organisatie heeft verkregen, op het Terrein goederen van welke aard dan ook, te koop of te ruil aan te bieden, danwel deze kosteloos aan derden te verschaffen.\n</b></p><p><b>\n</b></p><p><b>4.8\n</b></p><p><b>Bezoekers die het bepaalde in dit artikel van deze algemene voorwaarden overtreden danwel aan enige bepaling medewerking weigeren, kan de toegang tot het Evenement worden geweigerd, danwel deze Bezoekers kunnen door de Organisatie van het Terrein van het Evenement worden verwijderd, zonder dat de Organisatie gehouden is tot restitutie van het aankoopbedrag van het Entreebewijs. Voor alle door de Organisatie ten gevolge van het overtreden van het in dit artikel gestelde geleden schade zal de Bezoeker aansprakelijk zijn.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>5.1\n</b></p><p><b>Het betreden van het Terrein en het bijwonen van het Evenement geschiedt door de Bezoekers op eigen risico. De Organisatie is slechts aansprakelijk voor door de Bezoeker geleden schade of de Bezoeker toegebracht letsel, die rechtstreeks en uitsluitend het gevolg is van opzet of grove schuld van de Organisatie, met dien verstande dat alleen die schade voor vergoeding in aanmerking komt waarvoor de Organisatie is verzekerd en voor zover deze schade door die betreffende verzekering wordt gedekt. De aansprakelijkheid van de Organisatie wordt in ieder geval (maar niet beperkt tot) uitgesloten voor:\n</b></p><p><b>a. schade ten gevolge van handelen van derden, waaronder begrepen door de Organisatie ingeschakelde derden zoals leveranciers, huurders/pachters van delen van het Terrein en de door deze derden ingeschakelde personen.\n</b></p><p><b>b. schade ten gevolge van het niet opvolgen door de Bezoeker van door de Organisatie ingeschakelde functionarissen gegeven instructies en van het niet naleven van algemene normen van openbare orde, veiligheid en fatsoen.\n</b></p><p><b>c. schade ontstaan door het bijwonen van het Evenement aan bijvoorbeeld gehoor en/of gezichtsvermogen.\n</b></p><p><b>d. schade ten gevolge van verlies, beschadiging of diefstal van aan de Bezoeker toebehorende en naar het Terrein meegebrachte goederen.\n</b></p><p><b>e. (gevolg)schade ten gevolge van niet voorzienbare wijzigingen in de aanvangsen slottijden van het Evenement.\n</b></p><p><b>f. schade op enigerlei wijze veroorzaakt door andere bezoekers van het Evenement.\n</b></p><p><b>g. schade direct of indirect aan wie of wat dan ook ontstaan als direct of indirect gevolg van enig gebrek of enige hoedanigheid of omstandigheid aan, in of op enig roerend of onroerend goed waarvan de Organisatie houder, (erf)pachter, huurder danwel eigenaar is of dat anderszins ter beschikking van de Organisatie staat.\n</b></p><p><b>h. gevolgschade en indirecte (bedrijfs)schade aan de zijde van Bezoeker.\n</b></p><p><b>\n</b></p><p><b>5.2\n</b></p><p><b>De Organisatie is nimmer aansprakelijk voor door de Bezoeker geleden schade die is ontstaan ten gevolge van overmacht aan de zijde van de Organisatie. Onder overmacht wordt mede verstaan elke van de wil van de Organisatie onafhankelijke omstandigheid ook al was deze ten tijde van het totstandkomen van de overeenkomst tussen de Organisatie en de Bezoeker reeds als mogelijkheid te voorzien die de nakoming van de overeenkomst tijdelijk of blijvend verhindert alsmede voor zover daaronder niet reeds begrepen, oorlog, oorlogsgeweld, burgeroorlog, oproer, rellen, terreur en terreurdreiging, optreden van politie en/of brandweer, werkstaking, transportmoeilijkheden, brand, en\n</b></p><p><b>andere ernstige storingen in de Organisatie en/of op het Terrein, weersomstandigheden en om welke reden dan ook niet functionerend openbaar vervoer alsmede de omstandigheid dat een Evenement vanwege het feit dat de voor het Evenement benodigde vergunningen niet zijn verleend c.q. deze zijn ingetrokken geen doorgang kan vinden danwel krachtens een daartoe gegeven bevel van het bevoegde gezag afgelast dient te worden.\n</b></p><p><b>\n</b></p><p><b>5.3\n</b></p><p><b>De in dit artikel opgenomen uitsluitingen en beperkingen van aansprakelijkheid gelden mede ten behoeve van werknemers van de Organisatie en/of door de Organisatie ingeschakelde derden.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>6.1\n</b></p><p><b>De Organisatie is gerechtigd om (delen van) het Evenement en de Bezoekers op beelddragers te doen vastleggen en dit beeldmateriaal te (doen) verveelvoudigen en (doen) openbaarmaken middels alle haar ten dienste staande middelen alsmede derden toestemming te verlenen tot dergelijke openbaarmaking en/of verveelvoudiging. Hieronder wordt tevens begrepen de (camera)registratie in het kader van de handhaving van de openbare orde en veiligheid op het Terrein.\n</b></p><p><b>\n</b></p><p><b>6.2\n</b></p><p><b>Door betreding van het Terrein verklaart de Bezoeker zich eeuwigdurend, onherroepelijk en onvoorwaardelijk akkoord met openbaarmaking en verveelvoudiging van diens portret en lichaam(skenmerken) door de Organisatie of een door de Organisatie aangewezen derde, waarbij de Bezoeker uitdrukkelijk afstand doet van zijn recht zich tegen een dergelijke openbaarmaking te verzetten, ongeacht het medium of de context waarin of het commentaar waarmee dit plaatsvindt. De Organisatie noch de eventuele derde aan wie de Organisatie toestemming heeft gegeven voor een dergelijke openbaarmaking en/of verveelvoudiging is ter zake aan de Bezoeker enige vergoeding verschuldigd.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>De Bezoeker is niet gerechtigd (delen van) het programmaboekje, posters, flyers, en of andere door de Organisatie geproduceerd (promotie)materiaal te verveelvoudigen danwel op enige andere wijze inbreuk te maken op aan de Organisatie toebehorende rechten van intellectueel eigendom, waaronder maar niet beperkt tot merkenrechten, auteursrechten en handelsnaamrechten.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>8.1\n</b></p><p><b>De Organisatie zal zich er voor inspannen het Evenement te doen plaatsvinden op de aangegeven locatie, op de aangegeven datum en het aangegeven tijdstip.\n</b></p><p><b>\n</b></p><p><b>8.2\n</b></p><p><b>Indien de Organisatie dit om enigerlei reden wenselijk acht danwel ingeval van overmacht is de Organisatie gerechtigd het Evenement te verschuiven naar een andere datum, andere locatie danwel het Evenement in zijn geheel te annuleren, zonder aansprakelijk te zijn voor enige door Bezoeker ten gevolge daarvan geleden of te lijden schade.\n</b></p><p><b>\n</b></p><p><b>8.3\n</b></p><p><b>Onder overmacht in de zin van dit artikel wordt mede (maar niet beperkt tot) verstaan, elke van de wil van de Organisatie onafhankelijke omstandigheid ook al was deze ten tijde van het totstandkomen van de overeenkomst tussen de Organisatie en de Bezoeker reeds als mogelijkheid te voorzien die de nakoming van de overeenkomst tijdelijk of blijvend verhindert alsmede voor zover daaronder niet reeds begrepen, oorlog, oorlogsgeweld, burgeroorlog, oproer, rellen, terreur en terreurdreiging, optreden van politie en/of brandweer, werkstaking, transportmoeilijkheden, brand, en andere ernstige storingen in de Organisatie en/of op het Terrein, weersomstandigheden en om welke reden dan ook niet functionerend openbaar vervoer alsmede de omstandigheid dat een Evenement vanwege het feit dat de voor het Evenement benodigde vergunningen niet zijn verleend c.q. deze zijn ingetrokken geen doorgang kan vinden danwel krachtens een daartoe gegeven bevel van het bevoegde gezag afgelast dient te worden.\n</b></p><p><b>\n</b></p><p><b>8.4\n</b></p><p><b>Uitsluitend in geval van annulering als bedoeld in dit artikel zal de Organisatie de reeds door de Bezoeker voor het Entreebewijs betaalde vergoeding aan de Bezoeker restitueren. Van het bepaalde in dit artikellid zijn uitgesloten eventueel door de Bezoeker betaalde bespreek/reserveringsgelden.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>8.5\n</b></p><p><b>Restitutie van entreegelden als bedoeld in lid 4 van dit artikel zal uitsluitend plaats vinden op verzoek van de Bezoeker, onder overlegging aan de Organisatie of een daartoe door haar aangewezen derde, van een geldig entreebewijs binnen 14 (veertien) dagen na de (eerste) dag waarop de annulering door of namens de Organisatie is bekendgemaakt.\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>9.1\n</b></p><p><b>Indien enige bepaling van deze algemene voorwaarden geheel of gedeeltelijk nietig zijn of anderszins ongeldig blijken te zijn, dan laat dat de geldigheid van de overige bepalingen onverlet.\n</b></p><p><b>Een nietige of anderszins ongeldige bepaling wordt geconverteerd in een wel geldige bepaling van zo veel mogelijk overeenkomstige strekking. De Organisatie is gerechtigd deze algemene voorwaarden te wijzigen.\n</b></p><p><b>\n</b></p><p><b>9.2\n</b></p><p><b>Alle geschillen van welke aard dan ook zullen worden voorgelegd aan de bevoegde rechter te Den Haag.\n</b></p><p><b>\n</b></p><p><b>9.3\n</b></p><p><b>Geschillen zullen uitsluitend naar Nederlands recht worden beslecht.\n</b></p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rtJx6Pv5Tm",
+          "_name": "content10",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Tekstbreedte\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Lijnbreedte\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"lijnkleur\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Cookie Policy for dragoevents\n<div>This is the Cookie Policy for dragoevents, accessible from dragoevents.nl\n</div><div>\n</div><div>What Are Cookies\n</div><div>\n</div><div>As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or 'break' certain elements of the sites functionality.\n</div><div>\n</div><div>For more general information on cookies see the Wikipedia article on HTTP Cookies.\n</div><div>\n</div><div>How We Use Cookies\n</div><div>\n</div><div>We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.\n</div><div>\n</div><div>Disabling Cookies\n</div><div>\n</div><div>You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.\n</div><div>\n</div><div>The Cookies We Set\n</div><div>\n</div><div>Forms related cookies\n</div><div>\n</div><div>When you submit data to through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence.\n</div><div>\n</div><div>Site preferences cookies\n</div><div>\n</div><div>In order to provide you with a great experience on this site we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we need to set cookies so that this information can be called whenever you interact with a page is affected by your preferences.\n</div><div>\n</div><div>Third Party Cookies\n</div><div>\n</div><div>In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.\n</div><div>\n</div><div>We also use social media buttons and/or plugins on this site that allow you to connect with your social network in various ways. For these to work the following social media sites including; {List the social networks whose features you have integrated with your site?:12}, will set cookies through our site which may be used to enhance your profile on their site or contribute to the data they hold for various purposes outlined in their respective privacy policies.\n</div><div>\n</div><div>More Information\n</div><div>\n</div><div>Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site. This Cookies Policy was created with the help of the Cookies Policy Template Generator and the Terms and Conditions Template.\n</div><div>\n</div><div>However if you are still looking for more information then you can contact us through one of our preferred contact methods:\n</div><div>\n</div><div>Email:\n <a href=\"mailto:drago.events@outlook.com\">drago.events@outlook.com</a></div><div>By visiting this link: <a href=\"info.html\">http://www.dragoevents.nl/info.html</a></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_cid": "rtPLtx2sfc",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "content1-u"
+          "_anchor": "content10-v"
         }
       ]
     }
